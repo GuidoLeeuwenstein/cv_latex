@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.9) (preloaded format=pdflatex 2023.9.27)  27 SEP 2023 17:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.9) (preloaded format=pdflatex 2023.10.2)  2 OCT 2023 10:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -976,35 +976,65 @@ Underfull \hbox (badness 10000) in paragraph at lines 33--59
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 89--90
+Underfull \hbox (badness 10000) in paragraph at lines 92--93
 
  []
 
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/n' will be
-(Font)              scaled to size 7.0pt on input line 96.
+(Font)              scaled to size 7.0pt on input line 102.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/b/n' will be
-(Font)              scaled to size 7.0pt on input line 96.
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 9
-6.
+(Font)              scaled to size 7.0pt on input line 102.
+
+cv.tex:102: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.102 ...{Zephyr}\slashsep\texttt{Github Actions}}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
+02.
 (C:\Users\guido\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
 File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-Underfull \hbox (badness 10000) in paragraph at lines 113--114
+Underfull \hbox (badness 10000) in paragraph at lines 111--111
+
+ []
+
+cv.tex:125: Misplaced alignment tab character &.
+\entry ...3#4->\parbox [t]{0.175\textwidth }{#1 }&
+                                                  \parbox [t]{0.825\textwidt...
+l.125         {(Not finished)}
+                              
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 120--129
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 140--141
+Underfull \hbox (badness 10000) in paragraph at lines 120--129
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--151
+Underfull \hbox (badness 10000) in paragraph at lines 133--134
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 158--159
+Underfull \hbox (badness 10000) in paragraph at lines 142--143
 
  []
 
@@ -1023,10 +1053,10 @@ Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 24049 strings out of 475248
- 469697 string characters out of 5757813
+ 24079 strings out of 475248
+ 470277 string characters out of 5757813
  1946801 words of memory out of 5000000
- 45150 multiletter control sequences out of 15000+600000
+ 45181 multiletter control sequences out of 15000+600000
  670126 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  117i,8n,121p,422b,685s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1035,9 +1065,9 @@ Here is how much of TeX's memory you used:
 esome/FontAwesome.pfb><C:/Users/guido/AppData/Local/Programs/MiKTeX/fonts/type1
 /impallari/raleway/Raleway-Bold.pfb><C:/Users/guido/AppData/Local/Programs/MiKT
 eX/fonts/type1/impallari/raleway/Raleway-Regular.pfb>
-Output written on C:/Users\guido\cv_latex\out\cv.pdf (1 page, 74795 bytes).
+Output written on C:/Users\guido\cv_latex\out\cv.pdf (1 page, 76128 bytes).
 PDF statistics:
  70 PDF objects out of 1000 (max. 8388607)
- 4 named destinations out of 1000 (max. 500000)
+ 3 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
