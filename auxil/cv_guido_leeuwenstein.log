@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.9) (preloaded format=pdflatex 2023.10.2)  2 OCT 2023 10:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.9) (preloaded format=pdflatex 2023.10.2)  2 OCT 2023 10:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -822,7 +822,7 @@ Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
 \LT@p@ftn=\toks35
 ))
 LaTeX Font Info:    Trying to load font information for T1+Raleway-TLF on input
- line 27.
+ line 9.
 
 (C:\Users\guido\AppData\Local\Programs\MiKTeX\tex/latex/raleway\t1raleway-tlf.f
 d
@@ -830,43 +830,46 @@ File: T1Raleway-TLF.fd 2014/07/28 (autoinst) Font definitions for T1/Raleway-TL
 F.
 )
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 27.
+(Font)              scaled to size 9.0pt on input line 9.
 
 (C:\Users\guido\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
 tex.def
 File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count305
 \l__pdf_internal_box=\box89
-)
-No file cv_guido_leeuwenstein.aux.
+) (C:/Users\guido\cv_latex\auxil\cv_guido_leeuwenstein.aux)
 \openout1 = `cv_guido_leeuwenstein.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 27.
-LaTeX Font Info:    Trying to load font information for LY1+ptm on input line 2
-7.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 9.
+LaTeX Font Info:    Trying to load font information for LY1+ptm on input line 9
+.
+
 (C:\Users\guido\AppData\Local\Programs\MiKTeX\tex/latex/ly1\ly1ptm.fd
 File: ly1ptm.fd 2001/02/01 font definitions for LY1/ptm using Berry names.
 )
-LaTeX Font Info:    ... okay on input line 27.
-Package hyperref Info: Link coloring OFF on input line 27.
+LaTeX Font Info:    ... okay on input line 9.
+Package hyperref Info: Link coloring OFF on input line 9.
+
+(C:/Users\guido\cv_latex\auxil\cv_guido_leeuwenstein.out)
+(C:/Users\guido\cv_latex\auxil\cv_guido_leeuwenstein.out)
 \@outlinefile=\write4
 \openout4 = `cv_guido_leeuwenstein.out'.
 
@@ -932,82 +935,82 @@ fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/n' will be
-(Font)              scaled to size 29.86pt on input line 38.
+(Font)              scaled to size 29.86pt on input line 20.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/b/n' will be
-(Font)              scaled to size 29.86pt on input line 38.
+(Font)              scaled to size 29.86pt on input line 20.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 44.
+(Font)              scaled to size 14.4pt on input line 26.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 51.
+(Font)              scaled to size 10.0pt on input line 33.
 LaTeX Font Info:    Trying to load font information for U+fontawesometwo on inp
-ut line 51.
+ut line 33.
 
 (C:\Users\guido\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome\ufontawesom
 etwo.fd
 File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
 )
 LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <6> on input line 51.
+(Font)              <6> on input line 33.
 LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <5> on input line 51.
+(Font)              <5> on input line 33.
 LaTeX Font Info:    Trying to load font information for U+fontawesomeone on inp
-ut line 53.
+ut line 35.
 
 (C:\Users\guido\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome\ufontawesom
 eone.fd
 File: ufontawesomeone.fd 2016/05/22 Font definitions for U/fontawesomeone.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 51--56
+Underfull \hbox (badness 10000) in paragraph at lines 33--38
 
  []
 
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/b/n' will be
-(Font)              scaled to size 9.0pt on input line 58.
+(Font)              scaled to size 9.0pt on input line 40.
 
-Overfull \hbox (30.55061pt too wide) in paragraph at lines 33--59
+Overfull \hbox (30.55061pt too wide) in paragraph at lines 15--41
 [][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 33--59
+Underfull \hbox (badness 10000) in paragraph at lines 15--41
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 92--93
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
 
  []
 
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/n' will be
-(Font)              scaled to size 7.0pt on input line 102.
+(Font)              scaled to size 7.0pt on input line 84.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/b/n' will be
-(Font)              scaled to size 7.0pt on input line 102.
+(Font)              scaled to size 7.0pt on input line 84.
 
-cv_guido_leeuwenstein.tex:102: LaTeX Error: There's no line here to end.
+cv_guido_leeuwenstein.tex:84: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.102 ...{Zephyr}\slashsep\texttt{Github Actions}}
+l.84 ...t{Zephyr}\slashsep\texttt{Github Actions}}
                                                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
-02.
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 8
+4.
 (C:\Users\guido\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
 File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-Underfull \hbox (badness 10000) in paragraph at lines 111--111
+Underfull \hbox (badness 10000) in paragraph at lines 94--94
 
  []
 
-cv_guido_leeuwenstein.tex:125: Misplaced alignment tab character &.
+cv_guido_leeuwenstein.tex:108: Misplaced alignment tab character &.
 \entry ...3#4->\parbox [t]{0.175\textwidth }{#1 }&
                                                   \parbox [t]{0.825\textwidt...
-l.125         {(Not finished)}
+l.108         {(Not finished)}
                               
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1017,22 +1020,22 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 120--129
+Underfull \hbox (badness 10000) in paragraph at lines 103--112
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 120--129
+Underfull \hbox (badness 10000) in paragraph at lines 103--112
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 133--134
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 142--143
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
 
  []
 
@@ -1047,20 +1050,14 @@ ontawesomeone.enc}] (C:/Users\guido\cv_latex\auxil\cv_guido_leeuwenstein.aux)
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
  ***********
-
-Package rerunfilecheck Warning: File `cv_guido_leeuwenstein.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `cv_guido_leeuwenstein.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
+Package rerunfilecheck Info: File `cv_guido_leeuwenstein.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 24071 strings out of 475248
- 470251 string characters out of 5757813
+ 24079 strings out of 475248
+ 470657 string characters out of 5757813
  1946801 words of memory out of 5000000
- 45179 multiletter control sequences out of 15000+600000
+ 45181 multiletter control sequences out of 15000+600000
  670126 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  117i,8n,121p,441b,685s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1070,7 +1067,7 @@ esome/FontAwesome.pfb><C:/Users/guido/AppData/Local/Programs/MiKTeX/fonts/type1
 /impallari/raleway/Raleway-Bold.pfb><C:/Users/guido/AppData/Local/Programs/MiKT
 eX/fonts/type1/impallari/raleway/Raleway-Regular.pfb>
 Output written on C:/Users\guido\cv_latex\out\cv_guido_leeuwenstein.pdf (1 page
-, 76128 bytes).
+, 76055 bytes).
 PDF statistics:
  70 PDF objects out of 1000 (max. 8388607)
  3 named destinations out of 1000 (max. 500000)
